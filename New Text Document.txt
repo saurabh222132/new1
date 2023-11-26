@@ -1,0 +1,40 @@
+Additional Info Questions
+1.
+
+Enter Projects Summary (Internships, Project details), Minimum 100 Words
+
+A:
+
+1. Ecommerce Web app ( use MERN Stack and JWT for authentication , there is two role 'administrator login' and 'user login' , admin can see and manage all activity of user ) , 2. Movie app ( Use: Reactjs , this app shows the list of trending movies and also send show the IMDB rating and other details of movie ), 3. Pokemon adoption Sanario ( Used : MERN stack , login and signup option , user can adopt the pokemon from the list given , dashbord availale for user to see the pokemons and their health ) 4. Login authentication web app ( Use : MERN Stack )
+
+2.
+
+Mention your hobbies (Minimum 50 Words)
+
+A:
+
+1. Reading Technical Books: I have a passion for continuous learning and enjoy delving into technical literature to stay updated with the latest advancements in my field, 2. Problem Solving: I'm genuinely passionate about tackling complex challenges and puzzles. Whether it's a mathematical problem, a strategic puzzle, or a real-life issue, I enjoy analyzing situations, breaking them down, and finding innovative solutions.
+
+3.
+
+Carrer Interest (Minimum 50 Words)
+
+A:
+
+1. Full Stack Development : I am passionate about Full Stack development and my goal is to continue honing my full stack development skills and staying updated with the latest trends and technologies. 2 . AI: I am also looking for exploring AI in the future.
+
+4.
+
+Mention your strength & weakness (Minimum 100 Words with example)
+
+A:
+
+1 . Positive and Innovative Thinker : I approach challenges with an optimistic mindset, seeking creative and innovative solutions. 2. Honesty : I am always being honest to my responsibility and works. 3. Hardworking: I am known for my strong work ethic and dedication to achieving exceptional results. And "take a deeper look into the matter or topic" on which I am working, but it seems a weakness for me wherever I have a tight deadline for me to submit my project.
+
+5.
+
+About Himself / Herself (Minimum 100 Words)
+
+A:
+
+Hello Arahas Technologies, I am Saurabh Vishwakarma graduating from Madan Mohan Malviya University of technology in 2024. Currently I am pursuing my B.Tech in "Electronics and Communication Engineering" specialization and my current cpga is 8.19.I have also done a diploma in electronics. Apart from the academics I have also learned the Web Development technology in MERN stack , Problem solving skill and currently I am sharping my skills. And talking about myself I am always eager to learn new technologies. I always think solution oriented and try to solve the prolems with the help of tech in a unique way not as all others are doing. From my childhood I love to work thing uniquely and with a positive approach.
